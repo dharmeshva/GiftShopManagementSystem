@@ -12,8 +12,6 @@ Desktop-based App: Create an application that runs on a desktop computer and off
 Property Usage: To encapsulate data and guarantee safe and restricted access, make heavy use of properties within the codebase.
 Form Validation: To ensure data integrity and validate user inputs, implement strong form validation procedures.
 Search Functionality: Give consumers the ability to quickly find presents or pertinent information inside the application by providing a search function.
-Object-Oriented Programming Principles: Create a modular and maintainable codebase by utilising concepts like encapsulation, inheritance, and polymorphism.
-Form Design: Create aesthetically pleasing and easily navigable forms with simple layouts and controls to improve usability.
 Use the public, private, and protected access modifiers wisely to control class members' visibility and accessibility in a secure manner.
 CRUD Operations: To make managing gift products and customer data easier, use CRUD (Create, Read, Update, Delete) operations.
 Login Authentication: To ensure safe access to the system, implement a login form that requires user ID and password authentication.
