@@ -1,18 +1,20 @@
 # GiftShopManagementSystem
-      The gift shop management system is a desktop based application developed in C#. It provides various features and functionalities to shop owner.
+                  The gift shop management system is a desktop based application developed in C#. It provides various features and functionalities to shop owner.
       Gift shop management allows admin to enter new customer's details about their purchase.Admin can add/manage stock and can check the quantity of the items.
       Admin can see the orders history.
     The Gift Shop Management System is a desktop-based application implemented in C#. 
     It facilitates the management of a gift shop with various features and requirements tailored to efficiently handle operations.
+
     Key Features and Requirements:
-Database Connection Class: Implement a dedicated class to manage database connections and operations securely and efficiently.
-Normalized Database (2NF): Design and implement a normalized database schema (2nd Normal Form) to ensure optimal data organization and integrity.
-Desktop-based App: Develop the application as a desktop-based system, providing users with a graphical user interface (GUI) for intuitive interaction.
-Property Usage: Utilize properties extensively within the codebase to encapsulate data and ensure secure and controlled access.
-Form Validation: Implement robust form validation mechanisms to validate user inputs and maintain data integrity.
-Search Functionality: Provide users with a search option to efficiently locate gifts or relevant information within the application.
-Object-Oriented Programming Principles: Apply principles such as encapsulation, inheritance, and polymorphism to design and develop a modular and maintainable codebase.
-Form Design: Design visually appealing and user-friendly forms with intuitive layouts and controls for enhanced usability.
-Access Modifiers: Employ access modifiers (public, private, protected) effectively to manage the visibility and accessibility of class members securely.
-CRUD Operations: Implement CRUD (Create, Read, Update, Delete) operations to facilitate the management of gift items and customer information.
-Login Authentication: Implement a login form requiring user ID and password authentication for secure access to the system.
+Create a specific class to handle database connections and activities in a safe and effective manner. This is known as the Database Connection Class.
+Normalised Database (2NF): To guarantee the best possible data organisation and integrity, design and implement a normalised database schema (2nd Normal Form).
+Desktop-based App: Create an application that runs on a desktop computer and offers a graphical user interface (GUI) for easy user interaction.
+Property Usage: To encapsulate data and guarantee safe and restricted access, make heavy use of properties within the codebase.
+Form Validation: To ensure data integrity and validate user inputs, implement strong form validation procedures.
+Search Functionality: Give consumers the ability to quickly find presents or pertinent information inside the application by providing a search function.
+Object-Oriented Programming Principles: Create a modular and maintainable codebase by utilising concepts like encapsulation, inheritance, and polymorphism.
+Form Design: Create aesthetically pleasing and easily navigable forms with simple layouts and controls to improve usability.
+Use the public, private, and protected access modifiers wisely to control class members' visibility and accessibility in a secure manner.
+CRUD Operations: To make managing gift products and customer data easier, use CRUD (Create, Read, Update, Delete) operations.
+Login Authentication: To ensure safe access to the system, implement a login form that requires user ID and password authentication.
+
