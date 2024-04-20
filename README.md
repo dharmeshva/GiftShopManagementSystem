@@ -1,6 +1,9 @@
 # GiftShopManagementSystem
-      The gift shop management system is a desktop based application developed in C#. It provides various features and functionalities to shop owner.Gift shop management allows admin to enter new customer's details about their purchase.Admin can add/manage stock and can check the quantity of the items.Admin can see the orders history.
-    The Gift Shop Management System is a desktop-based application implemented in C#. It facilitates the management of a gift shop with various features and requirements tailored to efficiently handle operations.
+      The gift shop management system is a desktop based application developed in C#. It provides various features and functionalities to shop owner.
+      Gift shop management allows admin to enter new customer's details about their purchase.Admin can add/manage stock and can check the quantity of the items.
+      Admin can see the orders history.
+    The Gift Shop Management System is a desktop-based application implemented in C#. 
+    It facilitates the management of a gift shop with various features and requirements tailored to efficiently handle operations.
     Key Features and Requirements:
 - Database Connection Class: Implement a dedicated class to manage database connections and operations securely and efficiently.
 - Normalized Database (2NF): Design and implement a normalized database schema (2nd Normal Form) to ensure optimal data organization and integrity.
